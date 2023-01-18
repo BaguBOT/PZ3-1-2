@@ -9,24 +9,15 @@ namespace PR3
             Student tom = new Student();      
             Student alex = new Student();
             Student dima = new Student();
+            Student liza = new Student();
 
             string personName = tom.name;
             int semestr = tom.semestr;
             string subject = tom.subject;
             string attestatsi = tom.attestatsi;
-            string[] sub = { "Математика", "Русский язык", "Физика" };
-           
-           
-                Console.WriteLine($"Студент: {personName}  Симестр: {semestr} Придмет: {subject}  Аттетация: {attestatsi} ");
-
-            
-            //--------------------------------------// 
-            dima.name = "Dima";
-            dima.semestr = 1;
-            dima.subject = sub[3];
-            dima.attestatsi = "НЕАттестован";
-            dima.Print();
-
+            string[] sub = { "Математика", "Русский язык", "Физика" };   
+            Console.WriteLine($"Студент: {personName}  Симестр: {semestr} Придмет: {subject}  Аттетация: {attestatsi} ");
+          
             tom.name = "Tom";
             tom.semestr = 3 ;
             tom.subject = sub[0];
@@ -38,9 +29,19 @@ namespace PR3
             alex.subject = sub[1];
             alex.attestatsi = "Аттестован";
             alex.Print();
-
+          ;
+            dima.name = "Dima";
+            dima.semestr = 1;
+            dima.subject = sub[2];
+            dima.attestatsi = "НЕ Аттестован";
+            dima.Print();
            
-          
+            liza.name = "liza";
+            liza.semestr = 5;
+            liza.subject = sub[0];
+            liza.attestatsi = "НЕ Аттестован";
+            liza.Print();
+
         }
        
         class Student
@@ -52,9 +53,8 @@ namespace PR3
             public string attestatsi;
             public void Print()
             {
-               
-                    Console.WriteLine($"Студент: {name}  Симестр: {semestr} Придмет: {subject}  Аттетация: {attestatsi} ");
-                
+
+                if (attestatsi == "НЕ Аттестован") Console.WriteLine($"Студент: {name}  Симестр: {semestr} Придмет: {subject}  Аттетация: {attestatsi} ");
             }
         }
         

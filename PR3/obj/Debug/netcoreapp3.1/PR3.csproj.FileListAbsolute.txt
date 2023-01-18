@@ -12,3 +12,17 @@ d:\users\student\Desktop\Ис(Про)-31\PR3\PR3\obj\Debug\netcoreapp3.1\PR3.csp
 d:\users\student\Desktop\Ис(Про)-31\PR3\PR3\obj\Debug\netcoreapp3.1\PR3.dll
 d:\users\student\Desktop\Ис(Про)-31\PR3\PR3\obj\Debug\netcoreapp3.1\PR3.pdb
 d:\users\student\Desktop\Ис(Про)-31\PR3\PR3\obj\Debug\netcoreapp3.1\PR3.genruntimeconfig.cache
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.exe
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.deps.json
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.runtimeconfig.json
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.runtimeconfig.dev.json
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.dll
+d:\users\is13096\Desktop\Новая папка\PR3\bin\Debug\netcoreapp3.1\PR3.pdb
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.csproj.AssemblyReference.cache
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.AssemblyInfoInputs.cache
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.AssemblyInfo.cs
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.csproj.CoreCompileInputs.cache
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.dll
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.pdb
+d:\users\is13096\Desktop\Новая папка\PR3\obj\Debug\netcoreapp3.1\PR3.genruntimeconfig.cache
