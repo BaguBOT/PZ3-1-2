@@ -11,8 +11,13 @@ namespace PR3
             int Semestr = tom.semestr;
             string subject = tom.subject;
             string attestatsi = tom.attestatsi;
+           
             tom.name = "Tom";
-            tom.semestr = 1;
+            if (tom.semestr > 9)
+            {
+               
+                tom.semestr = ;
+            }
             tom.subject = "Математика";
             tom.attestatsi = "Аттестован";
             tom.Print();
@@ -28,8 +33,9 @@ namespace PR3
        
         class Student
         {
-            public string name  ;
-            public int semestr;
+            public string name = "Null" ;
+          
+            public int semestr   ;
             public string subject;
             public string attestatsi;
                        public void Print()
