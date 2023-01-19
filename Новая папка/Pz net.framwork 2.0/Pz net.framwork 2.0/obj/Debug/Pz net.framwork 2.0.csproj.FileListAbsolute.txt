@@ -1,0 +1,6 @@
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\bin\Debug\Pz net.framwork 2.0.exe
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\bin\Debug\Pz net.framwork 2.0.pdb
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.AssemblyReference.cache
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.CoreCompileInputs.cache
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.exe
+F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.pdb
