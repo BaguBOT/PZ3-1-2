@@ -32,6 +32,11 @@ namespace Pz_net.framwork_2._0
             liza.Show();
             dima.Show();
             alex.Show();
+
+            tom.otse();
+            liza.otse();
+            dima.otse();
+            alex.otse();
         }
 
        
@@ -112,20 +117,21 @@ namespace Pz_net.framwork_2._0
 
                 public StudenDifferentiated(string name, int semestr, string attestatsi, int otsenka, bool zatet)
                 {
-                    Name = name;
-                    Semestr = semestr;
-                    Attestatsi = attestatsi;
-                    Otsenka = otsenka;
+
+                    Name=name;
+                      Otsenka = otsenka;
                     Zatet = zatet;
                 }
-                //public override string otse()
-                //{
-                //    if (Zatet == true)
-                //    {
-                //        return Name + " " + Semestr + " " + Attestatsi;
-                //    }
-                //    return Name;
-                //}
+                public virtual string otse()
+                {
+                    if (Zatet == true)
+                    {
+                        Console.WriteLine($" Имя: {Name} симестор: {Otsenka} атестация: {Zatet} ");
+                        return Name + " " + Otsenka + " " + Zatet;
+                        
+                    }
+                    return Name;
+                }
             }
         }
     }
