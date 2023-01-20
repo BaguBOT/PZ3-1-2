@@ -4,3 +4,11 @@ F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz ne
 F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.CoreCompileInputs.cache
 F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.exe
 F:\Codes and so on\Код\PZZZZZ\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.pdb
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\bin\Debug\Pz net.framwork 2.0.exe.config
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\bin\Debug\Pz net.framwork 2.0.exe
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\bin\Debug\Pz net.framwork 2.0.pdb
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.AssemblyReference.cache
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.SuggestedBindingRedirects.cache
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.csproj.CoreCompileInputs.cache
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.exe
+d:\users\is13096\Desktop\Новая папка\Новая папка\Pz net.framwork 2.0\Pz net.framwork 2.0\obj\Debug\Pz net.framwork 2.0.pdb
