@@ -11,22 +11,18 @@ namespace Pz_net.framwork_2._0
         {
             StudenDifferentiated tom = new StudenDifferentiated("tom",3, "Аттестован",5,true);
             StudenDifferentiated alex = new StudenDifferentiated("Alex",2, "Аттестован",4,true);
-            StudenDifferentiated dima = new StudenDifferentiated("Dima",5, "НЕ Аттестован",3,true);
-            StudenDifferentiated liza = new StudenDifferentiated("liza",5, "НЕ Аттестован",4, false);
+            StudenDifferentiated dima = new StudenDifferentiated("Dima",5,"НЕ Аттестован", 3,true);
+            StudenDifferentiated liza = new StudenDifferentiated("liza",5,"НЕ Аттестован",4, false);
           //  string[] sub = new string[3] { "Математика","Русский язык","ОБЖ"};
           //   tom = sub;
-
                 tom.Zatet = true;
-
                 alex.Zatet = true; 
                /////////////////////////////////////////////////
                 dima.Otsenka = 2;
                 dima.Zatet = false;
- 
                 ////////////////////////////////////////////
                 liza.Otsenka = 3;
                 liza.Zatet = true;
-
             
             tom.Show();
             liza.Show();
@@ -117,18 +113,19 @@ namespace Pz_net.framwork_2._0
 
                 public StudenDifferentiated(string name, int semestr, string attestatsi, int otsenka, bool zatet)
                 {
-
-                    Name=name;
-                      Otsenka = otsenka;
+                  
+                    Semestr = semestr;
+                    Attestatsi = attestatsi;
+                    Name =name;
+                     Otsenka = otsenka;
                     Zatet = zatet;
                 }
                 public virtual string otse()
                 {
                     if (Zatet == true)
-                    {
+                    {        
                         Console.WriteLine($" Имя: {Name} симестор: {Otsenka} атестация: {Zatet} ");
                         return Name + " " + Otsenka + " " + Zatet;
-                        
                     }
                     return Name;
                 }
