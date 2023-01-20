@@ -125,9 +125,7 @@ namespace Pz_net.framwork_2._0
                     if (Zatet == true)
                     {        
                         Console.WriteLine($" Имя: {Name} симестор: {Otsenka} атестация: {Zatet} ");
-                       
                         return Name + " " + Otsenka + " " + Zatet;
-                        
                     }
                     return Name;
                 }
